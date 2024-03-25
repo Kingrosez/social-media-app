@@ -1,0 +1,39 @@
+.sideBar {
+  min-height: 100vh;
+}
+.card {
+  justify-content: space-around;
+  margin: 20px 50px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.tags {
+  margin: 0px 3px;
+}
+.reaction {
+  margin-top: 15px;
+}
+.post_delete {
+  text-align: right;
+
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.post_delete:hover {
+  color: red;
+  font-size: 2.25rem;
+}
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.sidebar {
+  width: 180px;
+  min-height: 100vh;
+}
+.welcome {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
